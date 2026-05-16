@@ -1,0 +1,6 @@
+{
+  "name": "LiveAvatar PDF Reader",
+  "description": "A full-screen embedded LiveAvatar with an integrated document manager and AI reader for PDFs.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
